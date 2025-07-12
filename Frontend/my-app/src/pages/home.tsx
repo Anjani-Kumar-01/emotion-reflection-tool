@@ -44,7 +44,7 @@ export default function Home() {
         />
         <button
           type="submit"
-          className="bg-blue-600  hover:bg-blue-700 text-white px-4 py-2 rounded"
+          className="bg-blue-600  hover:bg-blue-700  text-white px-4 py-2  rounded alignitems-center justify-center"
         >
           Submit
         </button>
